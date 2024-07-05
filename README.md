@@ -18,7 +18,7 @@ Clone this repository:
 
 bash
 Copy code
-git clone https://github.com/your-username/ai-assistant.git
+git clone (https://github.com/codewithsuzan/Inertia-Virtual-Assistant.git)
 Open index.html in your preferred web browser.
 
 Allow microphone access when prompted.
