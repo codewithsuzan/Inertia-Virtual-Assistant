@@ -1,4 +1,4 @@
-# Inertia-Virtual-Assistant
+# Inertia-Virtual-Assistant (Branch Master)
 AI Assistant for Windows
 
 Overview
